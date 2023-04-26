@@ -8,130 +8,25 @@ This is a simple document that aims to list and index evidences of personal deve
 <ul>
   <li>
     <details> 
-      <summary>
-        <a href="https://egghead.io/courses/architect-an-extensible-digital-garden-with-next-js-tailwind-and-nx-53f7628f">[Course] Architect an Extensible Digital Garden with Next.js, Tailwind, and Nx</a> (0%)
-      </summary>
-      <ul>
-        <li>
-          Started: 
-        </li>
-        <li>
-          Finished:
-        </li>
-      </ul>
-      </details>
-  </li>
-  <li>
-    <details> 
-      <summary>
-        <a href="https://egghead.io/courses/scale-react-development-with-nx-4038">[Course] Scale React Development with Nx</a> (0%)
-      </summary>
-      <ul>
-        <li>
-          Started: 
-        </li>
-        <li>
-          Finished:
-        </li>
-      </ul>
-      </details>
-  </li>
-  <li>
-    <details> 
-      <summary>
-        <a href="https://www.totaltypescript.com/tutorials/beginners-typescript">[Tutorial] Beginners TypeScript</a> (0%)
-      </summary>
-      <ul>
-        <li>
-          Started: 
-        </li>
-        <li>
-          Finished:
-        </li>
-      </ul>
-      </details>
-  </li>
-  <li>
-    <details> 
-      <summary>
-        <a href="https://www.totaltypescript.com/tutorials/zod">[Tutorial] Zod</a> (0%)
-      </summary>
-      <ul>
-        <li>
-          Started: 
-        </li>
-        <li>
-          Finished:
-        </li>
-      </ul>
-      </details>
-  </li>
-  <li>
-    <details> 
-      <summary>
-        <a href="https://www.totaltypescript.com/workshops/type-transformations">[Workshop] Type Transformations</a> (0%)
-      </summary>
-      <ul>
-        <li>
-          Started: 
-        </li>
-        <li>
-          Finished:
-        </li>
-      </ul>
-      </details>
-  </li>
-  <li>
-    <details> 
-      <summary>
-        <a href="https://www.totaltypescript.com/tips">[Workshop] TypeScript Tips</a> (0%)
-      </summary>
-      <ul>
-        <li>
-          Started: 
-        </li>
-        <li>
-          Finished:
-        </li>
-      </ul>
-      </details>
-  </li>
-  <li>
-    <details> 
-      <summary>
-        <a href="https://hasura.io/learn/">[Tutorial] FullStack GraphQL Tutorials</a> (0%)
-      </summary>
-      <ul>
-        <li>
-          Started: 
-        </li>
-        <li>
-          Finished:
-        </li>
-      </ul>
-      </details>
-  </li>
-  <li>
-    <details> 
-      <summary>
-        <a href="https://www.amazon.com.br/Peopleware-Productive-Projects-Tom-DeMarco/dp/0321934113">[Book] Peopleware: Productive Projects and Teams</a> (0%)
-      </summary>
-      <ul>
-        <li>
-          Started: 
-        </li>
-        <li>
-          Finished:
-        </li>
-      </ul>
-      </details>
-  </li>
-  <li>
-    <details> 
     <summary>
-      <a href="https://github.com/amaralc/learn-threejs-using-react">[Course] Learn ThreeJS using React</a> (0%)
+      <a href="https://www.udemy.com/course/kubernetes-training/learn/lecture/17459332?start=60#content">[Course] Kubernetes with HELM: Kubernetes for Absolute Beginners CKA</a> (10%)
     </summary>
     <ul>
+      <li>
+        Started: 2023-03-20
+      </li>
+      <li>
+        Finished:
+      </li>
+    </ul>
+    </details>
+  </li>
+  <li>
+    <details> 
+      <summary>
+        <a href="https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html">[Article] The Clean Architecture</a> (0%)
+      </summary>
+      <ul>
         <li>
           Started: 
         </li>
@@ -139,7 +34,7 @@ This is a simple document that aims to list and index evidences of personal deve
           Finished:
         </li>
       </ul>
-    </details>
+      </details>
   </li>
 </ul>
 </br>
@@ -149,41 +44,26 @@ This is a simple document that aims to list and index evidences of personal deve
   <li>
     <details> 
     <summary>
-      <a href="https://github.com/amaralc/microfrontends-with-react">[Course] Microfrontends with React: A Complete Developer's Guide</a> (16%)
+      <a href="https://www.amazon.com.br/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882">[Book] Clean Code: A Handbook of Agile Software Craftsmanship</a> (100%)
     </summary>
     <ul>
         <li>
-          Started: 2022-11-10
+          Started: 2023-02-13
         </li>
         <li>
-          Finished:
+          Finished: 2023-03-22
         </li>
       </ul>
-    </details>
-  </li>
-  <li>
-    <details> 
-    <summary>
-      <a href="https://github.com/amaralc/systems-design-fundamentals-notes">[Course] Systems Design Fundamentals</a> (20%)
-    </summary>
-    <ul>
-      <li>
-        Started: 2022-12-11
-      </li>
-      <li>
-        Finished:
-      </li>
-    </ul>
     </details>
   </li>
   <li>
     <details> 
       <summary>
-        <a href="https://github.com/amaralc/nestjs-fundamentals">[Course] NestJS Fundamentals</a> (27%)
+        <a href="https://alistair.cockburn.us/hexagonal-architecture/">[Article] Hexagonal architecture</a> (0%)
       </summary>
       <ul>
         <li>
-          Started: 2022-11-26
+          Started: 
         </li>
         <li>
           Finished:
@@ -191,84 +71,11 @@ This is a simple document that aims to list and index evidences of personal deve
       </ul>
     </details>
   </li>
-  <li>
-    <details> 
-    <summary>
-      <a href="https://docs.google.com/document/d/1-61PDnyvwtDovGyJWh2ZxFKRffzUxFheF41_2WTMWpU/edit?usp=share_link">[Book] Team Topologies: Organizing Business and Technology Teams for Fast Flow</a> (61%)
-    </summary>
-    <ul>
-      <li>
-        Started: 2022-11-02
-      </li>
-      <li>
-        Finished:
-      </li>
-    </ul>
-    </details>
-  </li>
-   <li>
-    <details> 
-    <summary>
-      <a href="https://docs.google.com/document/d/1Lhxslykqxw0it2yzYy-AELPS-VwzoMoi69FlQB11UXc/edit?usp=share_link">[Book] Building Micro-Frontends</a> (20%)
-    </summary>
-    <ul>
-      <li>
-        Started: 2022-10-13
-      </li>
-      <li>
-        Finished:
-      </li>
-    </ul>
-    </details>
-  </li>
 </ul>
 </br>
 
-<h1>2022</h1>
-<ul>
-  <li>
-    <details> 
-    <summary>
-      <a href="https://github.com/amaralc/2022-course-rocketseat-ignite-lab-nodejs">[Workshop] Ignite Lab Node.js 2022</a> (100%) ✔️
-    </summary>
-    <ul>
-      <li>
-        Started: 2022-12-13
-      </li>
-      <li>
-        Finished: 2022-12-15
-      </li>
-    </ul>
-    </details>
-  </li>
-  <li>
-    <details> 
-    <summary>
-      <a href="https://docs.google.com/document/d/11H4p8mdh9XqysuJRMCgnANQ6WLe_93aPJqMJi-tC13E/edit?usp=share_link">[Book] Extreme Programming Explained</a> (100%) ✔️
-    </summary>
-    <ul>
-      <li>
-        Started: 2022-02-22
-      </li>
-      <li>
-        Finished: 2022-10-28
-      </li>
-    </ul>
-    </details>
-  </li>
-</ul>
-</br>
 
 
 <hr/>
 
 </br>
-
-<strong>Examples</strong>
-
-- [Adriano Junior](https://github.com/adrianodev97/personal-development-index)
-- [Calil Amaral](https://github.com/amaralc/courses-and-bootcamps)
-- [Carlos Flach](https://github.com/carlosaflach/personal-development-index)
-- [Guilherme Irie](https://github.com/GuilhermeIrie/personal-development-evolution)
-- [Ítalo Amaral](https://github.com/ItaloRAmaral/personal-development-index)
-- [Luana Vefago](https://github.com/luanavfg/personal-development-index)
