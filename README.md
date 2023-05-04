@@ -59,7 +59,7 @@ This is a simple document that aims to list and index evidences of personal deve
   <li>
     <details> 
       <summary>
-        <a href="https://alistair.cockburn.us/hexagonal-architecture/">[Article] Hexagonal architecture</a> (0%)
+        <a href="https://alistair.cockburn.us/hexagonal-architecture/">[Article] Hexagonal architecture</a> (20%)
       </summary>
       <ul>
         <li>
