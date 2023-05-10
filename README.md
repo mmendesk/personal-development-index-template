@@ -48,10 +48,10 @@ This is a simple document that aims to list and index evidences of personal deve
       </summary>
       <ul>
         <li>
-          Started: 
+          Started: 2023-04-30
         </li>
         <li>
-          Finished:
+          Finished: 2023-05-09
         </li>
       </ul>
     </details>
