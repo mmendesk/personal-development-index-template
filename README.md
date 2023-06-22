@@ -59,14 +59,14 @@ This is a simple document that aims to list and index evidences of personal deve
     <li>
     <details> 
       <summary>
-        <a href="https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html">[Article] The Clean Architecture</a> (0%)
+        <a href="https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html">[Article] The Clean Architecture</a> (100%)
       </summary>
       <ul>
         <li>
-          Started: 
+          Started: 2023-06-02
         </li>
         <li>
-          Finished:
+          Finished: 2023-06-15
         </li>
       </ul>
       </details>
